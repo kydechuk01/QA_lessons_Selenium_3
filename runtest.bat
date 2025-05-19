@@ -1,0 +1,1 @@
+pytest -s -v .\tests\test_task4-36_selenium_3.py -p no:cacheprovider
